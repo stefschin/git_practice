@@ -13,12 +13,12 @@ The Project requires C++
 
 ## Launch Server
 
-1. Check localhost at port [8000](htttp:/localhost:8000/)
+1. Check localhost at port [8000](htttp://localhost:8000/)
 
 ## Services
 
 | Position  | Url |
 |---------- |-----|
-| All       | htttp:/localhost:8000/all     |
-| Juniors   | htttp:/localhost:8000/juniors |
-| Others    | htttp:/localhost:8000/others  |
+| All       | htttp://localhost:8000/all     |
+| Juniors   | htttp://localhost:8000/juniors |
+| Others    | htttp://localhost:8000/others  |
