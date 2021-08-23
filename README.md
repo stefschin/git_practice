@@ -2,6 +2,10 @@
 
 It's for practice
 
+# Markdown
+
+Wiki from [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 ## Setup
 
 The Project requires C++
@@ -22,3 +26,5 @@ The Project requires C++
 | All       | http://localhost:8000/all     |
 | Juniors   | http://localhost:8000/juniors |
 | Others    | http://localhost:8000/others  |
+
+
